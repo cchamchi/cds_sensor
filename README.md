@@ -17,3 +17,12 @@ asdfasdf
 
 
 ![](https://github.com/cchamchi/cds_sensor/blob/master/Arduino_Logo.svg_.png)
+
+
+
+
+ 이름  | 번호   |  성격    |
+ ---|---|---|
+ 박찬욱 | 1 |  온순함 |
+ 박동현 | 2 | 착함|
+ 박동준 | 3 | 건강함 |
